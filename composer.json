@@ -1,0 +1,9 @@
+{
+	"name": "amdrade/social-sharing-url-generator",
+	"type": "package",
+	"autoload": {
+		"classmap": [
+			""
+		]
+	}
+}
